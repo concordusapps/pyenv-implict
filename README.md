@@ -3,10 +3,10 @@
 
 ## Install
 
-Installing **pyenv-implicit** as a pyenv plugin will give you access to the provided behavior.
+Installing **pyenv-implict** as a pyenv plugin will give you access to the provided behavior.
 
 ```sh
-$ git clone git://github.com/concordusapps/pyenv-implicit.git ~/.pyenv/plugins/pyenv-implicit
+$ git clone git://github.com/concordusapps/pyenv-implict.git ~/.pyenv/plugins/pyenv-implict
 ```
 
 ## Usage
