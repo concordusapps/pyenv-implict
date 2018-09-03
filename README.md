@@ -6,7 +6,7 @@
 Installing **pyenv-implict** as a pyenv plugin will give you access to the provided behavior.
 
 ```sh
-$ git clone git://github.com/concordusapps/pyenv-implict.git ~/.pyenv/plugins/pyenv-implict
+$ git clone git://github.com/concordusapps/pyenv-implict.git $(pyenv root)/plugins/pyenv-implict
 ```
 
 ## Usage
